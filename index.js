@@ -1,4 +1,4 @@
-const clientId = 'go on discord.dev make a application and get the user id x';
+const clientId = 'go on discord.dev make a application and get the user id';
 const DiscordRPC = require("discord-rpc");
 const RPC = new DiscordRPC.Client({ transport: 'ipc' })
 
